@@ -1,5 +1,10 @@
 # Projects
 <br>
+<img src="https://github.com/user-attachments/assets/042868d7-7f99-488b-b37e-c65036f9bad4" align="left" width="200px"/>
+[SimChat](https://github.com/Anisha-kk/SimChat)
+<br>This project creates a simple rule based chatbot that answers user queries.
+<br clear="left"/>
+<br>
 <img src="https://media.istockphoto.com/id/922745190/photo/blogging-blog-concepts-ideas-with-worktable.jpg?s=612x612&w=0&k=20&c=xR2vOmtg-N6Lo6_I269SoM5PXEVRxlgvKxXUBMeMC_A=" align="left" width="200px"/>
 [Simple Blog Site](https://github.com/Anisha-kk/Simple-Blog-Site)
 <br>This project creates a simple blog site where one can create, view, edit and delete a post.
